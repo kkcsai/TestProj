@@ -3,7 +3,7 @@
 	<App>
 		<pages>
 			<Page title="{i18n>title}">
-				<content><Label text="Test Project" /></content>
+				<content><Label text="Test Project new" /></content>
 			</Page>
 		</pages>
 	</App>
